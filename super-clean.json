@@ -1,0 +1,126 @@
+{
+    "files.associations": {
+        "*.mdx": "markdown"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.snippetSuggestions": "none",
+        "editor.hover.enabled": true
+    },
+    "editor.snippetSuggestions": "top",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.cursorSmoothCaretAnimation": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[dockercompose]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "tree-generator.defaultTarget": "Markdown",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "vetur.validation.template": false,
+    "[markdown]": {
+        "editor.wordWrap": "bounded",
+        "editor.wrappingIndent": "same",
+        "editor.wordWrapColumn": 100,
+    },
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.gpuAcceleration": "off",
+    "beautify.config": {
+        "html": {
+            "allowed_file_extensions": [
+                "htm",
+                "html",
+                "xhtml",
+                "shtml",
+                "xml",
+                "svg",
+                "cfm",
+                "cfml",
+                "cfc"
+            ]
+        },
+        "beautify.language": {
+            "html": [
+                "htm",
+                "html",
+                "cfml",
+                "cfm"
+            ]
+        }
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.smoothScrolling": true,
+    "editor.lineHeight": 25,
+    "thunder-client.codeSnippetLanguage": "pythn-httpclient",
+    "[cfml]": {
+        "editor.suggest.snippetsPreventQuickSuggestions": false
+    },
+    "workbench.startupEditor": "none",
+    "vetur.completion.scaffoldSnippetSources": {
+        "vetur": "✌",
+        "workspace": "💼",
+        "user": "🗒️"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "terminal.integrated.env.osx": {
+        "FIG_NEW_SESSION": "1"
+    },
+    "workbench.list.smoothScrolling": true,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+    "editor.accessibilitySupport": "off",
+    "bracketPairColorizer.depreciation-notice": false,
+    "terminal.explorerKind": "external",
+    "editor.wordWrapColumn": 50,
+    "breadcrumbs.enabled": false,
+    "vscode_vibrancy.opacity": 0.59999999999999998,
+    "tree-generator.exclude": {
+        "**/node_modules/**": true
+    },
+    "workbench.colorCustomizations": {},
+    "editor.cursorBlinking": "phase",
+    "files.autoSaveDelay": 1500,
+    "workbench.colorTheme": "Night Owl Light",
+    "mssql.connections": [
+        {
+            "server": "eventsquid-platform-ear.cw2thtkmh3xo.us-west-2.rds.amazonaws.com",
+            "database": "",
+            "authenticationType": "SqlLogin",
+            "user": "sadams",
+            "password": "",
+            "emptyPasswordInput": false,
+            "savePassword": true,
+            "profileName": "Eventsquid"
+        },
+        {
+            "server": "localhost",
+            "database": "",
+            "authenticationType": "SqlLogin",
+            "user": "sa",
+            "password": "",
+            "emptyPasswordInput": false,
+            "savePassword": true
+        }
+    ],
+    "thunder-client.htmlView": "Raw Html",
+    "readTime.enabled": true,
+    "editor.formatOnSave": true,
+    "workbench.editor.enablePreview": false,
+    "scm.diffDecorations": "none",
+    "editor.renderLineHighlight": "all",
+    "editor.minimap.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "window.zoomLevel": 1,
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.visible": false,
+}
